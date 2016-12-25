@@ -1,0 +1,156 @@
+Report ID : DRCOOT5B
+
+ 
+
+DC: 3806 Target Stores
+
+Address: 2702 SUMMIT AVE
+RIALTO, CA 92376
+
+Scac: RDWY
+
+Cons Scac:
+
+Trailer: 431 142
+
+Manifest: 162702185145856
+
+ART Ranking Score:
+
+Appt Comment:
+
+PRO Src / PO
+4977931 56X 0082/4383059
+4977931 56X 0037/5684439
+4977931 56X 0006/7032703
+497793156X 0204/8162230
+497793156X 0082/8306519
+497793156X 0030/8976961
+497793156X 0259/9364416
+497793156X 0259/9810242
+546644172X 005211714504
+5791744876 0086/ 1885380
+5791744876 0087/2056784
+5791744876 0087/9694485
+5791745132 0207/7190018
+5794807835 0037/3081512
+
+Appt:
+
+Avail Date:
+Sched Date:
+Sched Time:
+
+Door:
+
+DELIVERY RECEIPT
+
+Vendor Name EDI Seq
+
+KLEAN KANTEEN
+GALDERMA LABO
+AWAKE INC
+MELISSA & DOU
+TODSON INC
+BABY PATENT L
+DECOR
+
+DECOR
+
+L'OREAL RETAI
+MATTEL TOYS
+MATTEL TOYS
+MATTEL TOYS
+MATTEL TOYS
+E.T. BROWNE D
+
+ 
+
+17
+32
+26
+30
+14
+18
+27
+25
+
+2
+3
+4
+5
+6
+7
+
+97091 1
+09/26/201 6
+09/29/201 6
+23:09
+
+354
+
+External
+Dam'g
+
+Sched Recv Rcv'd
+
+ 
+
+05Z
+
+0123— _'__
+oi__________
+o 2 __
+oﬂ;__ ____
+0L___________
+0422; __
+0:12.“ __.___
+49.5121— __
+12L“ __
+137,5 __ __
+412  __ ____
+751i____________
+194 "oz __
+
+ 
+
+ 
+
+Carrier
+
+Date'
+
+Page:
+
+Num Exp Ctns:
+Load Type:
+Trailerless:
+HV:
+
+Done:
+
+Returned
+
+Prob. Exp
+Area #
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(39/29/2016 20:28:53
+
+2of3
+
+-1 053
+DROP
+
+Comments

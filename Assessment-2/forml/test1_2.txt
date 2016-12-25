@@ -1,0 +1,27 @@
+Report ID : DR00075B DELIVERY RECEIPT Date: 03/12/2016 00:11:33
+Page: 2 of 2
+DC: 0594 Target Stores
+Address: 166 CORPORATE DR
+LUGOFF, SC 29078 *
+Scac: RDWY Appt: 899981 Num Exp Ctns: 77
+Cons Scac: Avail Date: 03/09/2016 Load Type: DROP
+Trailer: 132413 Sched Date: 03/11/2016 Traileﬂess: N
+Manifest: 160693803073852 Sched Time: 04:03 HV: N
+ART Ranking Score: 305 Door: 337 Done:
+Appt Comment:
+External Returned
+Dam'g to_ Prob. Exp
+PRO Src / PO Vendor Name EDI Seq Sched Recv RCV'd Gamer Area # Comments
+5031503985 0092/8395552 SCEPTER CANAD Y 13 6 (0
+5197797891 0043/4603817 G&G OUTFITTER 14 69 (a
+PO 4603817 PRIORITZE WHEN SCHEDULED, LATE
+ARRIVING AD MERCHANDISE SF 3/3
+Totals : 1,324 33 Q5 //
+Date Mailed to Target . Date
+Consolidator/Carrier: 3 3 - Signature: f  Z we: Unleaded: .
+
+Driver Signature:
+
+ 
+
+***End of Report***
