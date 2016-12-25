@@ -1,0 +1,5 @@
+To Run:
+bash deploy.sh <<input-file>> <<output-file>>
+
+Example:
+bash deploy.sh test1-1.pdf test1-1.txt 
