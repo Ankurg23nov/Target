@@ -2,7 +2,7 @@ library(xlsx)
 #install.packages('RecordLinkage')
 library(RecordLinkage)
 
-df <- read.xlsx('/home/ankur/ankur/data_science/data/others/Assessment-1/comments-bucketing-data.xlsx',1)
+df <- read.xlsx('comments-bucketing-data.xlsx',1)
 
 train <- df[1:21070,]
 train <- data.frame(lapply(train, as.character), stringsAsFactors=FALSE)
@@ -35,4 +35,4 @@ for(i in 1:nrow(test))
 
 test$feat <- NULL
 
-write.xlsx(test,file="/home/ankur/ankur/data_science/data/others/Assessment-1/test.xlsx")
+write.xlsx(test,file="test.xlsx")
